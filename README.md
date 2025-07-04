@@ -12,8 +12,7 @@ A minimal and lightweight notes app built using Android (Java).
 ## 📸 Screenshots
 
 ## 📦 Download APK
-
-
+https://github.com/Anisha956/simple-notes-app/releases/download/v1.0/app-debug.apk
 
 ## 🧠 Tech Stack
 
