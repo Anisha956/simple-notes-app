@@ -10,13 +10,6 @@ A minimal and lightweight notes app built using Android (Java).
 - Clean UI with RecyclerView and BottomSheet
 - Offline support
 
-## 📸 Screenshots
-
-| Home Screen | Add Note | Edit Note |
-|-------------|----------|-----------|
-| ![home](screenshots/home.png) | ![add](screenshots/add.png) | ![edit](screenshots/edit.png) |
-
-
 ## 📦 Download APK
 👉 [Download the latest APK] (https://github.com/Anisha956/simple-notes-app/releases/download/v1.0/InkDrop-v1.apk)
 
