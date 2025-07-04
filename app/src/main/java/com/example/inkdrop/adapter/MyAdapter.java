@@ -68,7 +68,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> implem
         String formattedTime = sdf.format(new Date(timestamp));
         holder.text_view_time.setText(formattedTime);
 
-//  ------------- * Logic to edit a note * --------
+//  ------------- *  edit a note * --------
 
         holder.itemView.setOnClickListener(v -> {
             if (context instanceof MainActivity) {
