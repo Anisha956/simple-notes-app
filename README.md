@@ -8,11 +8,17 @@ A minimal and lightweight notes app built using Android (Java).
 - Timestamp for every note
 - Search notes by title
 - Clean UI with RecyclerView and BottomSheet
+- Offline support
 
 ## 📸 Screenshots
 
+| Home Screen | Add Note | Edit Note |
+|-------------|----------|-----------|
+| ![home](screenshots/home.png) | ![add](screenshots/add.png) | ![edit](screenshots/edit.png) |
+
+
 ## 📦 Download APK
-https://github.com/Anisha956/simple-notes-app/releases/download/v1.0/app-debug.apk
+👉 [Download the latest APK] https://github.com/Anisha956/simple-notes-app/releases/download/v1.0/app-debug.apk
 
 ## 🧠 Tech Stack
 
@@ -38,7 +44,5 @@ Edit
 MIT – feel free to use or modify.
 
 ---
-
-## 💬 Contact
 
 For any questions or suggestions, feel free to reach out or open an issue.
