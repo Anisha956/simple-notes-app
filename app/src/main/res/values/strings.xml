@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ink Drop</string>
+    <string name="ink_drop">Ink Drop</string>
+    <string name="notes">Notes</string>
+    <string name="addtask_btn">addTask_btn</string>
+    <string name="add_new_note">Add New Note</string>
+    <string name="title">Title</string>
+    <string name="Note_something_down">Note something down </string>
+    <string name="todo">TODO</string>
+    <string name="mytitle">MyTitle</string>
+    <string name="date">june 27 2025</string>
+    <string name="content">Content</string>
+    <string name="totdo">TODO</string>
+    <string name="logo">logo</string>
+    <string name="image">TODO</string>
+</resources>

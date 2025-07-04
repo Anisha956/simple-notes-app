@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp">
+
+    <ImageView
+        android:id="@+id/text"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="20dp"
+        android:contentDescription="@string/image"
+        android:src="@drawable/write" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:layout_below="@id/text"
+        android:background="@drawable/rounded_corner"
+        android:id="@+id/newNote_layout">
+
+        <EditText
+            android:id="@+id/edit_text_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:hint="@string/title"
+            android:inputType="textMultiLine"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            tools:ignore="Autofill,TextContrastCheck,TouchTargetSizeCheck,VisualLintTextFieldSize" />
+
+        <EditText
+            android:id="@+id/edit_text_content"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="12dp"
+            android:gravity="top|start"
+            android:hint="@string/Note_something_down"
+            android:inputType="textMultiLine"
+            android:minLines="4"
+            android:padding="10dp"
+            android:scrollHorizontally="false"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            tools:ignore="Autofill,TextContrastCheck,VisualLintTextFieldSize" />
+
+    </LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_saveNote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/newNote_layout"
+        android:layout_alignParentEnd="true"
+        android:backgroundTint="@color/primaryDark"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/check"
+        tools:ignore="RtlHardcoded,ImageContrastCheck,DuplicateSpeakableTextCheck" />
+
+</RelativeLayout>
