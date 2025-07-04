@@ -18,7 +18,7 @@ A minimal and lightweight notes app built using Android (Java).
 
 
 ## 📦 Download APK
-👉 [Download the latest APK](https://github.com/Anisha956/simple-notes-app/releases/download/v1.0/InkDrop-v1.apk)
+👉 [Download the latest APK] (https://github.com/Anisha956/simple-notes-app/releases/download/v1.0/InkDrop-v1.apk)
 
 ## 🧠 Tech Stack
 
@@ -48,7 +48,7 @@ MIT – feel free to use or modify.
 Feel free to fork this project and make it your own!  
 Whether it's improving features, fixing bugs, or giving it a new look — your contributions are welcome.
 
-👉 [Click here to fork this repo](https://github.com/Anisha956/simple-notes-app/fork)
+👉 [Click here to fork this repo] (https://github.com/Anisha956/simple-notes-app/fork)
 
 ---
 
