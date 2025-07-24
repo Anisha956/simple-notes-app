@@ -36,6 +36,10 @@ Edit
 
 MIT – feel free to use or modify.
 
+## Credits
+Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/)
+
+
 ## 🌟 Contribute
 
 Feel free to fork this project and make it your own!  
