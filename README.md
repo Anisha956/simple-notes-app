@@ -23,12 +23,12 @@ A minimal and lightweight notes app built using Android (Java).
 
 ## App Screenshots
 <p align="center">
-  <img src="Screenshot_20260105-180843.jpg" width="300"> 
-  <img src="Screenshot_20260105-180848.jpg" width="300">
- <img src="Screenshot_20260105-180939.jpg" width="300">
-<img src="Screenshot_20260105-181108.jpg" width="300">
-<img src="Screenshot_20260105-181115.jpg" width="300">
-<img src="Screenshot_20260105-181120.jpg" width="300">
+  <img src="Screenshot_20260105-180843.jpg" width="200"> 
+  <img src="Screenshot_20260105-180848.jpg" width="200">
+ <img src="Screenshot_20260105-180939.jpg" width="200">
+<img src="Screenshot_20260105-181108.jpg" width="200">
+<img src="Screenshot_20260105-181115.jpg" width="200">
+<img src="Screenshot_20260105-181120.jpg" width="200">
 </p>
 
 ## 📚 How to Run
