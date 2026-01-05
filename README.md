@@ -21,6 +21,17 @@ A minimal and lightweight notes app built using Android (Java).
 - Material Design UI
 - AndroidX Libraries
 
+## App Screenshots
+<p align="center">
+  <img src="img1.jpg" width="300"> 
+  <img src="img2.jpg" width="300">
+ <img src="img3.jpg" width="300">
+<img src="img4.jpg" width="300">
+<img src="img5.jpg" width="300">
+<img src="img6.jpg" width="300">
+<img src="img7.jpg" width="300">
+</p>
+
 ## 📚 How to Run
 
 1. Clone this repo:
